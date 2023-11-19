@@ -1,0 +1,16 @@
+.fit-cover {
+  object-fit: cover;
+}
+
+@media (min-width: 768px) {
+  #menu-grup {
+    display: table;
+  }
+}
+
+@media (min-width: 768px) {
+  #ads-parag, #ads-parag2 {
+    display: none;
+  }
+}
+
